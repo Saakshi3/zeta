@@ -1,0 +1,97 @@
+/***************************************************************************
+ * The contents of this file were generated with Amplify Studio.           *
+ * Please refrain from making any modifications to this file.              *
+ * Any changes to this file will be overwritten when running amplify pull. *
+ **************************************************************************/
+
+import * as React from "react";
+import { EscapeHatchProps } from "@aws-amplify/ui-react/internal";
+import { LogoWithTextProps } from "./LogoWithText";
+import { ButtonProps, FlexProps, ImageProps, TextProps } from "@aws-amplify/ui-react";
+import { MyIconProps } from "./MyIcon";
+export declare type PrimitiveOverrideProps<T> = Partial<T> & React.DOMAttributes<HTMLDivElement>;
+export declare type PatientDashboardOverridesProps = {
+    PatientDashboard?: PrimitiveOverrideProps<FlexProps>;
+    LogoWithText89770?: LogoWithTextProps;
+    "Frame 432"?: PrimitiveOverrideProps<FlexProps>;
+    "Welcome Sarah"?: PrimitiveOverrideProps<TextProps>;
+    "We\u2019re Washington State HCA and we\u2019re here to help."?: PrimitiveOverrideProps<TextProps>;
+    "Frame 63"?: PrimitiveOverrideProps<FlexProps>;
+    "Dashboard consent form"?: PrimitiveOverrideProps<FlexProps>;
+    "Frame 429739416"?: PrimitiveOverrideProps<FlexProps>;
+    NEW?: PrimitiveOverrideProps<TextProps>;
+    "Consent Forms"?: PrimitiveOverrideProps<TextProps>;
+    "3 Forms await your signature"?: PrimitiveOverrideProps<TextProps>;
+    image?: PrimitiveOverrideProps<ImageProps>;
+    "Frame 26086253"?: PrimitiveOverrideProps<FlexProps>;
+    "Frame 137"?: PrimitiveOverrideProps<FlexProps>;
+    "Please fill out your forms soon. These forms will expire in 30 Days."?: PrimitiveOverrideProps<TextProps>;
+    Button739424?: PrimitiveOverrideProps<ButtonProps>;
+    "Frame 390"?: PrimitiveOverrideProps<FlexProps>;
+    logo931338?: PrimitiveOverrideProps<FlexProps>;
+    LogoWithText931280?: LogoWithTextProps;
+    "Frame 42939393392"?: PrimitiveOverrideProps<FlexProps>;
+    "Notice of Privacy Practices39393395"?: PrimitiveOverrideProps<TextProps>;
+    "Frame 13839393396"?: PrimitiveOverrideProps<FlexProps>;
+    "Our Notice of Privacy Practices describes how we may use and disclose the medical information that we maintain. We encourage you to read our full Notice. You will be offered a copy of our Notice of Privacy Practices the first time you register or present for treatment or health care services at EvergreenHealth. You may also request a copy of the Notice at any time."?: PrimitiveOverrideProps<TextProps>;
+    "Frame 26086254910338"?: PrimitiveOverrideProps<FlexProps>;
+    Button39393408?: PrimitiveOverrideProps<ButtonProps>;
+    MyIcon438910?: MyIconProps;
+    MyIcon438918?: MyIconProps;
+    "Frame 26086255931174"?: PrimitiveOverrideProps<FlexProps>;
+    Button931175?: PrimitiveOverrideProps<ButtonProps>;
+    MyIcon438928?: MyIconProps;
+    MyIcon438936?: MyIconProps;
+    "Frame 391"?: PrimitiveOverrideProps<FlexProps>;
+    logo931410?: PrimitiveOverrideProps<FlexProps>;
+    LogoWithText931411?: LogoWithTextProps;
+    "Frame 429931412"?: PrimitiveOverrideProps<FlexProps>;
+    "Notice of Privacy Practices931413"?: PrimitiveOverrideProps<TextProps>;
+    "Frame 138931414"?: PrimitiveOverrideProps<FlexProps>;
+    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.931415"?: PrimitiveOverrideProps<TextProps>;
+    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.931416"?: PrimitiveOverrideProps<TextProps>;
+    "Frame 26086254931417"?: PrimitiveOverrideProps<FlexProps>;
+    Button931418?: PrimitiveOverrideProps<ButtonProps>;
+    MyIcon438946?: MyIconProps;
+    MyIcon438954?: MyIconProps;
+    "Frame 26086255931421"?: PrimitiveOverrideProps<FlexProps>;
+    Button931422?: PrimitiveOverrideProps<ButtonProps>;
+    MyIcon438964?: MyIconProps;
+    MyIcon438972?: MyIconProps;
+    "Frame 392"?: PrimitiveOverrideProps<FlexProps>;
+    logo931510?: PrimitiveOverrideProps<FlexProps>;
+    LogoWithText931511?: LogoWithTextProps;
+    "Frame 429931512"?: PrimitiveOverrideProps<FlexProps>;
+    "Notice of Privacy Practices931513"?: PrimitiveOverrideProps<TextProps>;
+    "Frame 138931514"?: PrimitiveOverrideProps<FlexProps>;
+    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.931515"?: PrimitiveOverrideProps<TextProps>;
+    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.931516"?: PrimitiveOverrideProps<TextProps>;
+    "Frame 26086254931517"?: PrimitiveOverrideProps<FlexProps>;
+    Button931518?: PrimitiveOverrideProps<ButtonProps>;
+    MyIcon438982?: MyIconProps;
+    MyIcon438990?: MyIconProps;
+    "Frame 26086255931521"?: PrimitiveOverrideProps<FlexProps>;
+    Button931522?: PrimitiveOverrideProps<ButtonProps>;
+    MyIcon439000?: MyIconProps;
+    MyIcon439008?: MyIconProps;
+    "Frame 393"?: PrimitiveOverrideProps<FlexProps>;
+    logo931639?: PrimitiveOverrideProps<FlexProps>;
+    LogoWithText931640?: LogoWithTextProps;
+    "Frame 429931641"?: PrimitiveOverrideProps<FlexProps>;
+    "Notice of Privacy Practices931642"?: PrimitiveOverrideProps<TextProps>;
+    "Frame 138931643"?: PrimitiveOverrideProps<FlexProps>;
+    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.931644"?: PrimitiveOverrideProps<TextProps>;
+    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.931645"?: PrimitiveOverrideProps<TextProps>;
+    "Frame 26086254931646"?: PrimitiveOverrideProps<FlexProps>;
+    Button931647?: PrimitiveOverrideProps<ButtonProps>;
+    MyIcon439018?: MyIconProps;
+    MyIcon439026?: MyIconProps;
+    "Frame 26086255931650"?: PrimitiveOverrideProps<FlexProps>;
+    Button931651?: PrimitiveOverrideProps<ButtonProps>;
+    MyIcon439036?: MyIconProps;
+    MyIcon439044?: MyIconProps;
+} & EscapeHatchProps;
+export declare type PatientDashboardProps = React.PropsWithChildren<Partial<FlexProps> & {
+    overrides?: PatientDashboardOverridesProps | undefined | null;
+}>;
+export default function PatientDashboard(props: PatientDashboardProps): React.ReactElement;

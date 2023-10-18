@@ -1,0 +1,21 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-zeta-staging-195425-authRole",
+      "UnauthRoleArn": "arn:aws:iam::147978011717:role/amplify-zeta-staging-195425-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::147978011717:role/amplify-zeta-staging-195425-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-zeta-staging-195425-deployment",
+      "UnauthRoleName": "amplify-zeta-staging-195425-unauthRole",
+      "StackName": "amplify-zeta-staging-195425",
+      "StackId": "arn:aws:cloudformation:us-west-2:147978011717:stack/amplify-zeta-staging-195425/5019c8d0-6a02-11ee-800d-027bd3d255f5",
+      "AmplifyAppId": "d1mz90wnmmz2bk"
+    },
+    "categories": {
+      "auth": {
+        "zeta5cfdcc69": {},
+        "zeta8f7b7192": {}
+      }
+    }
+  }
+}

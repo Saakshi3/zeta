@@ -1,0 +1,11 @@
+
+.button-primary {
+  background-color: #043495;
+  transition: background-color 0.3s;
+}
+
+.button-primary:hover {
+  background-color: #043412;
+}
+
+/* You can also define styles for specific components or elements in this file. */
